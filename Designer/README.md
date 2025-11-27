@@ -1,6 +1,8 @@
 # 📱 Telas do Projeto - PlanCode
 
-Este repositório contém o **design visual** do projeto desenvolvido pela equipe **PlanCode**, criado no **Figma**. Todas as telas representam a interface final das aplicações.
+> ⚠️ **Observação:** As telas apresentadas aqui **não são as telas originais do projeto**, mas sim **um rascunho** feito pela equipe. Criamos essas telas para mostrar como gostaríamos que o design fosse, definindo cores, botões, layouts e estilo de forma conceitual.
+
+Este repositório contém o **design visual do rascunho** do projeto desenvolvido pela equipe **PlanCode**. Todas as telas refletem as decisões da equipe quanto à aparência e identidade visual..
 
 ---
 
