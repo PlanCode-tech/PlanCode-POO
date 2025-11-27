@@ -6,17 +6,17 @@ Este repositório contém o **design visual** do projeto desenvolvido pela equip
 
 ## 🖼 Telas do Projeto
 
-### 1. Tela de Seleção/Login
-![Tela Seleção](Designer/Figma/telaSelecao.png)
+### 1. Tela de Login
+![Tela Login](Figma/telaLogin.png)
 
-### 2. Tela de Menu Principal (TelaLogin)
-![Tela Login](Designer/Figma/telaLogin.png)
+### 2. Tela de Seleção 
+![Tela Seleção](Figma/telaSelecao.png)
 
 ### 3. Calculadora
-![Calculadora](Designer/Figma/telaCalculadora.png)
+![Calculadora](Figma/telaCalculadora.png)
 
 ### 4. Agenda de Contatos
-![Agenda de Contatos](Designer/Figma/telaAgenda.png)
+![Agenda de Contatos](Figma/telaAgenda.png)
 
 ---
 
@@ -24,4 +24,4 @@ Este repositório contém o **design visual** do projeto desenvolvido pela equip
 
 Você pode visualizar ou editar as telas diretamente no Figma através do link abaixo:
 
-[Figma - Telas do Projeto PlanCode](https://www.figma.com/file/SEU_LINK_AQUI)
+[Figma - Telas do Projeto PlanCode](https://www.figma.com/design/LhALnUArUf0E172DbF9PLf/PlanCode?node-id=0-1&p=f&t=CeP8fsWfJ5OFKMI7-0)
