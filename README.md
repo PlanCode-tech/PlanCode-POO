@@ -48,14 +48,13 @@ Tornar-se referência como Software House inovadora, criativa e comprometida com
 ---
 
 ## 🧱 Ferramentas que utilizamos  
+<div align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="50" alt="NetBeans" style="margin: 5px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="50" alt="MySQL" style="margin: 5px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50" alt="GitHub" style="margin: 5px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="50" alt="Figma" style="margin: 5px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" height="50" alt="YouTube" style="margin: 5px"/>
 
-  <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Netbeans_Icon.png" width="40" title="NetBeans" alt="NetBeans" style="margin-right:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Swing-logo.png" width="40" title="Swing" alt="Swing" style="margin-right:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="40" title="MySQL" alt="MySQL" style="margin-right:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" title="GitHub" alt="GitHub" style="margin-right:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" title="Figma" alt="Figma" style="margin-right:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="40" title="YouTube" alt="YouTube" style="margin-right:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/6d/TikTok_logo.svg" width="40" title="TikTok" alt="TikTok" style="margin-right:10px;"/>
-</p>
+</div>
+
