@@ -24,11 +24,11 @@ Tornar-se referência como Software House inovadora, criativa e comprometida com
 
 | Nome | Função | GitHub |
 |------|--------|--------|
-| ANTÔNIO MAX ANDRADE LIMA | Slides para apresentação | [GitHub](https://https://github.com/maxlima13) |
-| ERIC VALE DE SOUZA | Desenvolvedor | [GitHub](https://github.com/mdleric) |
-| GABRIEL FREIRE DOS ANJOS | Calculadora e Agenda de Contatos | [GitHub](https://github.com/gabrielfr7) |
+| Antônio Max Andrade Lima | Slides para apresentação | [GitHub](https://https://github.com/maxlima13) |
+| Eric Vale de Souza | Desenvolvedor | [GitHub](https://github.com/mdleric) |
+| Gabriel Freire dos Anjos | Calculadora e Agenda de Contatos | [GitHub](https://github.com/gabrielfr7) |
 | João Antônio Moura Sousa | Tela de Login, Design e apoio na Agenda de Contatos | [GitHub](https://github.com/SrKkxz) |
-| PEDRO CARDOSO SANTIAGO NETO | Apoio no Figma e Tela de Login | [GitHub](https://github.com/PedroNeto-ops) |
+| Pedro Cardoso Santiago Neto | Apoio no Figma e Tela de Login | [GitHub](https://github.com/PedroNeto-ops) |
 
 ---
 
