@@ -24,7 +24,7 @@ Tornar-se referência como Software House inovadora, criativa e comprometida com
 
 | Nome | Função | GitHub |
 |------|--------|--------|
-| Antônio Max Andrade Lima | Slides para apresentação | [GitHub](https://https://github.com/maxlima13) |
+| Antônio Max Andrade Lima | Slides para apresentação | [GitHub](https://github.com/maxlima13) |
 | Eric Vale de Souza | Desenvolvedor | [GitHub](https://github.com/mdleric) |
 | Gabriel Freire dos Anjos | Calculadora e Agenda de Contatos | [GitHub](https://github.com/gabrielfr7) |
 | João Antônio Moura Sousa | Tela de Login, Design e apoio na Agenda de Contatos | [GitHub](https://github.com/SrKkxz) |
